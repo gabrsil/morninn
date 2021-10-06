@@ -5,7 +5,7 @@
 - 🧐 I like Functional stuff
 - 🤠 Feel free to talk to me about anything
 
-# Contacts
+### Contacts
   email: gabriel.aconsurgens@gmail.com
 
 
