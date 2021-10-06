@@ -5,6 +5,9 @@
 - 🧐 I like Functional stuff
 - 🤠 Feel free to talk to me about anything
 
+# Contacts
+  email: gabriel.aconsurgens@gmail.com
+
 
 ![functional](https://user-images.githubusercontent.com/51804622/136234558-267de4a8-531a-44d1-a523-2ef725019ccb.jpg)
 
