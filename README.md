@@ -1,7 +1,7 @@
 ### Hi there, I'am Gabriel Angelo 👋
 
 - 💻 I’m working as React Developer on 3LM
-- 📖 I’m currently learning Compilers 
+- 📖 I’m currently learning about Compilers 
 - 🧐 I like Functional stuff
 - 🤠 Feel free to talk to me about anything
 
