@@ -1,10 +1,12 @@
 ### Hi there, I'am Gabriel Angelo 👋
 
-- 💻 I’m currently working on 3LM
+- 💻 I’m working on 3LM
 - 📖 I’m currently learning Compilers 
 - 🧐 I like Functional stuff
-- Feel free to talk to me about anything
-<!--![functional](https://user-images.githubusercontent.com/51804622/136234558-267de4a8-531a-44d1-a523-2ef725019ccb.jpg)
+- 🤠 Feel free to talk to me about anything
+
+
+<[functional](https://user-images.githubusercontent.com/51804622/136234558-267de4a8-531a-44d1-a523-2ef725019ccb.jpg)
 
 ![](https://komarev.com/ghpvc/?username=morninn&color=blueviolet&style=flat)
 
