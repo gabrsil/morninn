@@ -5,8 +5,7 @@
 - 🧐 I like Functional stuff
 - 🤠 Feel free to talk to me about anything
 
-### Contacts
-  email: gabriel.aconsurgens@gmail.com
+
 <!-- ![](https://komarev.com/ghpvc/?username=morninn&color=blueviolet&style=flat) -->
 
 
